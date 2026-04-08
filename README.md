@@ -6,3 +6,5 @@ This program was developed using **Xcode and Xcode's Swift language.** *English*
 このプログラムは、**XcodeとXcodeのSwift言語**を使用して開発されました。 *日本語*
 
 Данная программа была разработана с использованием **Xcode и языка Swift, входящего в состав Xcode.** *Русский*
+
+Please understand that this program is in Korean because I am Korean.
